@@ -16,6 +16,6 @@ Approach
 
 Intuition
 
-    **At any point of time the queue contains all distinct characters, if there exists a character in the queue which is equal
+    At any point of time the queue contains all distinct characters, if there exists a character in the queue which is equal
 
-    to the current character in the string then perform step 3,4 of approach**
+    to the current character in the string then perform step 3,4 of approach
