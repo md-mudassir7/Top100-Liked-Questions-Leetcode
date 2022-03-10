@@ -1,5 +1,7 @@
-1.basic recursion
+Approach
 
-2.keep adding value of node to the resultant vector
+    1.basic recursion
 
-3.return vector
+    2.keep adding value of node to the resultant vector
+
+    3.return vector
