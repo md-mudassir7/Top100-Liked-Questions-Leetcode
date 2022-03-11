@@ -7,3 +7,5 @@ Approach
     3.Check if left half of mid is sorted and target exists in the left half, if yes binary search on left half
 
     4.Check if right half of mid is sorted and target exists in the right half, if yes binary search on right half
+
+    5.Check out the code for better understanding
