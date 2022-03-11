@@ -9,3 +9,5 @@ Approach
     4.If element at m is one then increase m
 
     5.Else if it is 2 then decrease r
+
+
