@@ -11,17 +11,17 @@ Dry Run
 
     For n = 3 we can create bst's with node 1 ,2 and 3
 
-    If we take node 1 then we have   1          and    1
+    If we take node 1 then we have   1          and    1           (both 2 and 3 lie on right part of tree)
                                       \                 \
                                        2                 3
                                         \               /
                                          3             2
 
-     If we take node 2 then we have  2          
+     If we take node 2 then we have  2                             (1 lies in the left and 3 lies on right part of tree)
                                     / \         
                                    1   3         
                                         
-     If we take node 3 then we have  3          and     3
+     If we take node 3 then we have  3          and     3          (both 1 and 2 lie on left part of tree)
                                     /                  /
                                    1                  2
                                     \                /
