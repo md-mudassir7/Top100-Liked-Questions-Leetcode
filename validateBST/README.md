@@ -15,7 +15,7 @@ Approach
     6.For right subtree we update interval to [root->val,INT_MAX] to make sure that every node in right subtree is larger that root->val
 
     
-The image attached gives more details
+The image attached gives more details (-IM is INT_MIN and IM is INT_MAX)
 
 The intervals beside every node is the interval in which node should lie
 
