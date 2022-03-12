@@ -15,4 +15,8 @@ Approach
     6.For right subtree we update interval to [root->val,INT_MAX] to make sure that every node in right subtree is larger that root->val
 
     
-The image attached gives more details the intervals beside every node is the interval in which node should lie
+The image attached gives more details
+
+The intervals beside every node is the interval in which node should lie
+
+![Alt text](validateBST/sample.png?raw=true "Title")
