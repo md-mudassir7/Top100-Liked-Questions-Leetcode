@@ -19,4 +19,4 @@ The image attached gives more details
 
 The intervals beside every node is the interval in which node should lie
 
-![Alt text](validateBST/sample.png?raw=true "Title")
+![ValidateBST](validateBST/sample.png)
