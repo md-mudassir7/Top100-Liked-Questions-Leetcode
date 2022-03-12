@@ -7,3 +7,25 @@ Approach
     3.To calculate trees for n = 3 we multiply all the trees formed by its left(1,2) and right(4) part since it is a BST
 
 
+Dry Run
+
+    For n = 3 we can create bst's with node 1 ,2 and 3
+
+    If we take node 1 then we have   1          and    1
+                                      \                 \
+                                       2                 3
+                                        \               /
+                                         3             2
+
+     If we take node 2 then we have  2          
+                                    / \         
+                                   1   3         
+                                        
+     If we take node 3 then we have  3          and     3
+                                    /                  /
+                                   1                  2
+                                    \                /
+                                     2              1
+
+    
+    Hence we get 5 number of trees
