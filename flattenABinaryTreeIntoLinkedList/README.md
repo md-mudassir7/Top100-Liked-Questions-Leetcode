@@ -7,4 +7,4 @@ Approach
     and change the right pointer of current node to current nodes left 
 
 
-[Visit](/morrisTraversal)
+[Click here to understand morris traversal](/morrisTraversal)
