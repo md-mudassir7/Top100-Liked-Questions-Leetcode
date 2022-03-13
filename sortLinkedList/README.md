@@ -6,4 +6,4 @@ Approach
 
     and recursively call for every half of list
 
-    3.To merge 2 lists we use mergeSortedLists approach which can be found [!here](/mergeSortedLists/)
+    3.To merge 2 lists we use mergeSortedLists approach which can be found [here](/mergeSortedLists/)
