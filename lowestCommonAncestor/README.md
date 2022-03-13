@@ -11,4 +11,4 @@ Approach
     5.The answer is collective decision based on whatever is returned from the left and right subtrees(lines 21-23 in the code)
 
 
-[!](sample.png)
+![](sample.png)
