@@ -9,4 +9,4 @@ Approach
     3.To merge 2 lists we use mergeSortedLists approach which merges our 2 halves into a single sorted list
 
 
-Find mergeSortedLists [here](sortLinkedList/)
+Find mergeSortedLists [here](/mergeSortedLists/)
