@@ -16,4 +16,4 @@ Approach2
 
     before inserting deep copy nodes in it
 
-[!For better understanding click here](https://www.youtube.com/watch?v=VNf6VynfpdM)
+[For better understanding click here](https://www.youtube.com/watch?v=VNf6VynfpdM)
