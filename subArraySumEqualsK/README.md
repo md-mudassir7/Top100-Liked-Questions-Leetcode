@@ -16,4 +16,5 @@ Approach
 
     5.I.e. we found some subarray that sums to k (specifically the subarray from j+1 to i). 
     We'll add the number of these arrays to the count. 
-    Here the important point is that if we subtract the sum of the numbers on [0...j] from the sum of the numbers on [0...i] then we are left with the sum of the numbers on [j+1...i].
+    Here the important point is that if we subtract the sum of the numbers on [0...j] from the sum of the numbers on [0...i] 
+    then we are left with the sum of the numbers on [j+1...i].
