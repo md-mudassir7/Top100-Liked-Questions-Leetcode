@@ -1,6 +1,7 @@
 Brute force
 
     1.We can traverse the string s from 0 to s.size()-p.size() and at every index we can calculate the substring of length p.size()
+
     starting from that index and check if that substring and p are anagrams 
 
     2.If yes we add that index to our result and return the resultanat vector at the end
