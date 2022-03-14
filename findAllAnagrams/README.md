@@ -20,4 +20,4 @@ Optimal
     5.Left and right pointers keep track of the start and end position of our window
 
 
-[!Click here for better understanding](https://www.youtube.com/watch?v=fYgU6Bi2fRg)
+[Click here for better understanding](https://www.youtube.com/watch?v=fYgU6Bi2fRg)
