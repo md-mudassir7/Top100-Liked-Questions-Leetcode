@@ -18,7 +18,7 @@ Dry Run
 
     lists = [[1,1,2,3,4,5],[3,4,5]] the indices are maintained by the variable cnt in the code
 
-    now merge these 2 again
+    now merge these 2 again 
 
     lists = [[1,1,2,3,3,4,4,5,5]]
 
