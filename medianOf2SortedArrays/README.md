@@ -11,4 +11,4 @@ Approach
 
     5.right1 indicates the starting point in the first array that should be considered for right partition and right2 indicates the same for second array
 
-For clear explaination [click here](https://www.youtube.com/watch?v=NTop3VTjmxk)
+For clear explaination click [here](https://www.youtube.com/watch?v=NTop3VTjmxk)
