@@ -8,5 +8,5 @@ Approach
 
 For more understanding click [here](https://www.youtube.com/watch?v=Yv2jzDzYlp8)
 
-[](sample1.png)
-[](sample2.png)
+![](sample1.png)
+![](sample2.png)
