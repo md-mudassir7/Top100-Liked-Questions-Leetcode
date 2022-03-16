@@ -8,4 +8,4 @@ Approach
 
     3.The below image gives a clear understanding
 
-[](sample.jpg)
+![](sample.jpg)
