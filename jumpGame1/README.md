@@ -4,7 +4,7 @@ Approach1
 
     2.Initialise a dp array with all values as 0
 
-    3.for every element in array check if it can be reached by any jumping from any number previous to it
+    3.for every element in array check if it can be reached by jumping from any number previous to it
 
     4.If it can be reached assign dp[i] to true
 
