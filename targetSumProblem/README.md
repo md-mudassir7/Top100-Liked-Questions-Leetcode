@@ -8,4 +8,5 @@ Approach
 
     4.So this problem boils down to finding the number of subsets with difference equal to target
 
-    
+
+![](/numberOfSubsetsWithGivenDifference/)
