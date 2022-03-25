@@ -9,4 +9,4 @@ Approach
     4.So this problem boils down to finding the number of subsets with difference equal to target
 
 
-[Click here for numberOfSubsetsWithGivenDifference](numberOfSubsetsWithGivenDifference/)
+Click [here](/numberOfSubsetsWithGivenDifference/) for numberOfSubsetsWithGivenDifference
